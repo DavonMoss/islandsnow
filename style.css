@@ -3,3 +3,15 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.centered.grid.container {
+  margin-top: 50px;
+}
+
+#secondmenu {
+  background-color: white;
+}
+
+.ui.fluid.image {
+  margin-top: 20px;
+}
